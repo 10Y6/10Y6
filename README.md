@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Alejandro 👋
 
-<!--
-**10Y6/10Y6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a Data Science student trying to make sense of messy datasets and occasionally ricing my desktop until it breaks.
 
-Here are some ideas to get you started:
+### What I actually do:
+* **Python & R:** Writing scripts to analyze data, find patterns, and automate the boring stuff.
+* **Arch Linux:** Building a clean, aesthetic environment (and spending way too much time tweaking my terminal).
+* **Minimalism:** Obsessed with clean setups, dark themes, and getting rid of unnecessary visual noise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & OS
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,r,arch" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+###  Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=10Y6&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=10Y6&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
