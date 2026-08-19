@@ -1,11 +1,11 @@
 # Hey, I'm Alejandro 👋
 
-Just a Data Science student trying to make sense of messy datasets and occasionally ricing my desktop until it breaks.
+Data Science student obsessed with clean code, and occasionally ricing my desktop until it breaks.
 
 ### What I actually do:
-* **Python & R:** Writing scripts to analyze data, find patterns, and automate the boring stuff.
-* **Arch Linux:** Building a clean, aesthetic environment (and spending way too much time tweaking my terminal).
-* **Minimalism:** Obsessed with clean setups, dark themes, and getting rid of unnecessary visual noise.
+* **Data & Analytics:** Writing Python & R scripts to process datasets, build data visualizations, and automate workflows.
+* **Backend Development:** Designing fast, asynchronous REST APIs with FastAPI and lightweight persistence using SQLite.
+* **Arch Linux:** Crafting minimal, keyboard-driven environments (and spending way too much time tweaking my terminal).
 
 ---
 
@@ -13,13 +13,13 @@ Just a Data Science student trying to make sense of messy datasets and occasiona
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,arch" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,r,fastapi,sqlite,arch" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-###  Stats
+### Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=10Y6&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
