@@ -22,5 +22,6 @@ Data Science student obsessed with clean code, and occasionally ricing my deskto
 ### Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=10Y6&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" width="48%" />  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=10Y6&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=10Y6&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=10Y6&layout=compact&theme=tokyonight&include_all_commits=true" alt="Top Languages" width="48%" />
 </p>
